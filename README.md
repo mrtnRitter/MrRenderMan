@@ -28,18 +28,9 @@ It was last updated to After Effects version CC2018, but should run with newer v
 All outputs are in German. I don't mind to make an Englisch translation if there is interest. Just drop me a line. 
 
 ### Limitations
-MrRenderMan can be used as network renderer, when run in parallel on several computers and with the "skip exisiting frames" option checked in After Effects rendering settings. But if there are a lot of workers running and rendering speeds are fairly high, crashes of the workers are likely to happend. The workers crash because of file access errors, where two workers try to write to the same file. The crashed workers will restart, but they might produced corrupted frames. Therefore its good practice to always check the file sizes of the frames. 
+MrRenderMan can be used as network renderer, when run in parallel on several computers and with the "skip exisiting frames" option checked in After Effects rendering settings. But if there are a lot of workers running and rendering speeds are fairly high, crashes of the workers are likely to happend. The workers crash because of file access errors, where two workers try to write to the same file. The crashed workers will restart, but they might produced corrupted frames. Therefore its good practice to always check the file sizes of the rendered images.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+---
+*MrRenderMan* is licensed under the [MIT License](https://github.com/mrtnRitter/MrRenderMan/blob/main/LICENSE).

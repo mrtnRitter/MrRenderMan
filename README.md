@@ -1,7 +1,7 @@
 # MrRenderMan
 Multithread render manager for After Effects.
 
-<img src="/Screens/Start.jpg" width="33%" /> <img src="/Screens/Settings.jpg" width="33%" /> <img src="/Screens/Workers.jpg" width="33%" />
+<img src="/Screens/Start.jpg" width="30%" /> <img src="/Screens/Settings.jpg" width="30%" /> <img src="/Screens/Workers.jpg" width="30%" />
 
 ### Motivation
 When starting working professionally with After Effects in 2014, it doesn't fully utilize our computer hardware. Long rendering times with an idling CPU haven't been acceptable for serious business work (although it gets better, this is still an issue with After Effects in 2021).  

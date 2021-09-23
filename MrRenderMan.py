@@ -132,10 +132,7 @@ else:
 		print ("Rendervorgang abgeschlossen!")
 		print ("\n")
 		print ("\n")
-		
-		print (str.center("(C) Büro Vogel&Moritz 2017 | www.vogelmoritz.de", consolewidth))
-		print ("\n")
-		
+				
 		#auto shutdown exec
 		if sd =="j":
 			#check if another worker is running
